@@ -4,9 +4,9 @@ A smart web-based robot control panel that supports both **traditional buttons**
 
 ---
 
-## 📽️ Project Video Demo
-You can watch the live demonstration of the web control panel and Arabic voice recognition below:
+## 📽️ Project Video:
 
+You can watch the live demonstration of the web control panel and Arabic voice recognition below:
 <p align="center">
   <video width="100%" controls>
     <source src="web_4.mp4" type="video/mp4">
@@ -15,6 +15,7 @@ You can watch the live demonstration of the web control panel and Arabic voice r
 </p>
 
 > **Note:** If the video does not play directly, you can also view or download it directly from the repository using this direct link: [Download/View web_4.mp4](web_4.mp4)
+
 ---
 📁 Project Structure (5 Essential Files)
 These five core files should be uploaded together inside the htdocs directory on your hosting server:
